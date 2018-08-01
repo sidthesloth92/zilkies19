@@ -1,3 +1,1 @@
 frst line
-second branch line
-new line in branch mybranch
